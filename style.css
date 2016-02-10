@@ -1,13 +1,18 @@
-a {
-text-decoration: none;
-color:DarkSlateGray;
-font-weight: bold;
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+
+body{
+  font-family: "Playfair+Display",
+  sans-serif;
 }
 
-#navmenu {
-list-style: none;
+#heading1{
+  font-weight: bold;;
 }
 
-.navitems{
-  margin: 10px;
+#title{
+  font-size: 16px
+}
+
+#Tips{
+  color: #ff8c00
 }
