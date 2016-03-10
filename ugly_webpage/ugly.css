@@ -1,49 +1,50 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
 
-
+#menu{
+  text-align: center;
+}
 #PoemAuthor{
-  float: inherit;
+  margin: auto;
 }
 
 #Ref{
-  float: left;
+  margin: auto;
 }
 
-#Title2{
-  float: left;
-}
-
-#Title1{
-  float: left;
-}
-
-#p1{
-  width: 20%;
-  margin-left: 10px;
-  margin-right: 10px;
-  float: left;;
-  color: #00ff00
-}
-
-p{
-  width: 20%;
-  margin-left: 10;
-  margin-right: 10px;
-  color: #ff8c00;
-  text-indent: inherit;
-  border-color: #00ff00;
-  border-style: dotted;
-  border-spacing: inherit;
+p {
+  margin: auto;
 }
 
 h1{
-  font-weight: bold;
-  font-family: serif;
-  font-size: 36px;
+  text-align: center;
+  margin: 0;
+  padding-top: .25em;
+  color: #b9b4b5;
+  font-size: 40px;
+  font-family: "Lato", sans-serif;
+  font-weight: 10px;
 }
 
 h2{
-  font-weight: bold;
-  font-family: serif;
-  font-size: 24px;
+  text-align: center;
+  margin: 0;
+  padding-top: .25em;
+  color: #dc143c;
+  font-size: 30px;
+  font-family: "Lato", sans-serif;
+  font-weight: 9px;
+}
+
+h3{
+  text-align: center;
+  margin: 0;
+  padding-top: .25em;
+  color: #d2691e;
+  font-size: 20px;
+  font-family: "Lato", sans-serif;
+  font-weight: 8px;
+}
+
+header{
+  background-image: url(images/huts2.jpg);
 }
