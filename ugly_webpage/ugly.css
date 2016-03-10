@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+
+
+#PoemAuthor{
+  float: inherit;
+}
+
+#Ref{
+  float: left;
+}
+
+#Title2{
+  float: left;
+}
+
+#Title1{
+  float: left;
+}
+
+#p1{
+  width: 20%;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;;
+  color: #00ff00
+}
+
+p{
+  width: 20%;
+  margin-left: 10;
+  margin-right: 10px;
+  color: #ff8c00;
+  text-indent: inherit;
+  border-color: #00ff00;
+  border-style: dotted;
+  border-spacing: inherit;
+}
+
+h1{
+  font-weight: bold;
+  font-family: serif;
+  font-size: 36px;
+}
+
+h2{
+  font-weight: bold;
+  font-family: serif;
+  font-size: 24px;
+}
